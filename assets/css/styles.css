@@ -513,13 +513,13 @@ button {
 .logos__img img
 {
   height: 60px;
-  opacity: .2;
+  opacity: .4;
   transition: .3s;
 
 }
 .logos__img img:hover
 {
-  opacity: .6;
+  opacity: .8;
 }
 
 
@@ -1314,6 +1314,9 @@ button {
   .nav__button
   {
     display: inline-block;
+     padding-top: .3rem;
+    padding-bottom: .3rem;
+    margin-top: .3rem;
 
   }
 
